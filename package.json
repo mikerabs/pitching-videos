@@ -1,0 +1,22 @@
+{
+  "name": "pitching-videos",
+  "version": "1.0.0",
+  "description": "pitching videos from google drive that will be displayed in a webapp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikerabs/pitching-videos.git"
+  },
+  "author": "microbeta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikerabs/pitching-videos/issues"
+  },
+  "homepage": "https://github.com/mikerabs/pitching-videos#readme",
+  "dependencies": {
+    "googleapis": "^134.0.0"
+  }
+}
